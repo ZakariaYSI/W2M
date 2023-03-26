@@ -1,0 +1,59 @@
+{
+  "superHroesList": [
+    {
+      "Name": "Batman",
+      "Power": "World A class martial artist and detective",
+      "id": 1
+    },
+    {
+      "Name": "Zoom",
+      "Power": "Speed god from universe 2",
+      "id": 7
+    },
+    {
+      "Name": "Black Adam",
+      "Power": "Anti hero",
+      "id": 8
+    },
+    {
+      "Name": "Aquaman",
+      "Power": "Water bender and ocean king",
+      "id": 14
+    },
+    {
+      "Name": "Flash",
+      "Power": "Speedster",
+      "id": 15
+    },
+    {
+      "Name": "Spiderman",
+      "Power": "Spider sense,extra agility,strenght,speed ",
+      "id": 16
+    },
+    {
+      "Name": "Black Thunder",
+      "Power": "Lightning",
+      "id": 17
+    },
+    {
+      "Name": "Superman",
+      "Power": "Superpowers",
+      "id": 18
+    },
+    {
+      "Name": "Shazam",
+      "Power": "Magic",
+      "id": 19
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

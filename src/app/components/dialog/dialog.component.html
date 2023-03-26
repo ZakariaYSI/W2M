@@ -1,0 +1,16 @@
+<!-- Add/Update Superhero -->
+<h1 mat-dialog-title>{{editBtn}} Super Hero Form</h1>
+<div mat-dialog-content>
+<form [formGroup]="superheroForm">
+      <mat-form-field appearance="fill">
+        <mat-label>Name</mat-label>
+        <input matInput formControlName="Name">
+      </mat-form-field>
+      <mat-form-field appearance="fill">
+        <mat-label>Power</mat-label>
+        <input matInput formControlName="Power">
+      </mat-form-field>
+      <button mat-flat-button style ="width: 100%;" color="primary" (click)="addSuperHero()">{{editBtn}}</button>
+</form>
+</div>
+
